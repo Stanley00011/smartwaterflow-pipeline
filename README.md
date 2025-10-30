@@ -60,19 +60,19 @@ This system is designed to be easily extendable to:
 
 ### Charts:
 
-Anomaly Status Breakdown – Pie chart showing anomaly distribution
+Anomaly Status Breakdown: Pie chart showing anomaly distribution
 
-Anomalies Over Time – Time series trend by hour
+Anomalies Over Time: Time series trend by hour
 
-Smart Meter Anomaly Map – Geospatial bubble view
+Smart Meter Anomaly Map: Geospatial bubble view
 
-Recent Detected Anomalies – Filterable table of latest events
+Recent Detected Anomalies: Filterable table of latest events
 
-Pressure vs. Flow – Bubble chart for identifying usage extremes
+Pressure vs. Flow: Bubble chart for identifying usage extremes
 
-3-Hour Rolling Average Flow (L/min) – Smoothed time-based trend line
+3-Hour Rolling Average Flow (L/min): Smoothed time-based trend line
 
-Anomaly % by Meter Type – Summary bar chart from anomaly mart
+Anomaly % by Meter Type: Summary bar chart from anomaly mart
 
 ### Why This Project Matters
 Water loss from leaks and undetected anomalies costs cities billions annually. This project demonstrates how data engineers can:
